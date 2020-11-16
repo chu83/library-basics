@@ -12,3 +12,4 @@ print(arr2)
 # 2*2*3 3차원 배열
 arr3 = arr1.reshape(2, 2, 3)
 print(arr3)
+
